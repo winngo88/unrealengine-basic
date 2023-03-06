@@ -1,2 +1,0 @@
-- Khi chạy ứng dụng lên, không ở trên sàn mà cao hơn sàn cả mét, fix bằng cách đặt Player Start thấp hơn sàn 1/2 mét.
-- So sánh DefaultInput.ini nếu như VR template khi migrate qua project khác hoạt động không chính xác.
