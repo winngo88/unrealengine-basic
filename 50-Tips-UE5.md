@@ -13,4 +13,9 @@
 - Tip 12 - Focus object: click chuột lên object -> bấm phím F.  
 - Tip 13 - Quick Zoom and FOV: chuột phải + phím C: zoom in; chuột phải + phím Z: zoon out.  
 - Tip 14 - Viewport Bookmarks: Ctrl + [1 tới 9] để lưu lại vị trí viewport. Truy cập lại viewport bằng các phím đã chọn.  
-- Tip 15 - 
+- Tip 15 - Hide/un-hide object: chọn 1 hoặc nhiều object, bấm phím H trên bàn phím.  
+- Tip 16 - Jump to content: chọn object, bấm tổ hợp Ctrl + B. Bấm Ctrl + E cho object là Static Mesh.  
+- Tip 17 - Bấm F2 để đổi tên object.  
+- Tip 18 - Mở nhiều Content Browsers: từ COntent menu trên menu bar, chọn để Content Browser mà bạn muốn, tối đa là 4.  
+- Tip 19 - Change Viewports: Ctrl + chuột giữa + di chuyển chuột [trên, dưới, trái, phải].  
+- Tip 20 - 
