@@ -17,5 +17,7 @@
 - Tip 16 - Jump to content: chọn object, bấm tổ hợp Ctrl + B. Bấm Ctrl + E cho object là Static Mesh.  
 - Tip 17 - Bấm F2 để đổi tên object.  
 - Tip 18 - Mở nhiều Content Browsers: từ COntent menu trên menu bar, chọn để Content Browser mà bạn muốn, tối đa là 4.  
-- Tip 19 - Change Viewports: Ctrl + chuột giữa + di chuyển chuột [trên, dưới, trái, phải].  
-- Tip 20 - 
+- Tip 19 - Change Viewports: Ctrl + chuột giữa + di chuyển chuột [trên, dưới, trái, phải].  Alt + G để trở lại Perspective.  
+- Tip 20 - Set custom keybinds: ví dụ thiết lập tổ hợp phím Alt + Q để chọn các object dùng chung material, mở Editor Preference -> Select All With The Same Material -> bấm tổ hợp phím Alt + Q;
+- Tip 21 - Select similar Materials: Chọn object trên Viewport, bấm tổ hợp phím Alt + Q: sẽ chọn tất cả các object có dùng chung Material.  
+- Tip 22 - Paste Here: 1) Thiết lập custom keybinds, ví dụ dùng phím 
