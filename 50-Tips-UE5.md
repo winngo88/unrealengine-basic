@@ -5,5 +5,12 @@
 - Tip 04 - Move with Actors: Shift + Left Mouse ???  
 - Tip 05 - Alt drag to copy: nhấn Alt  +  Chuột trái lên trục của object để copy và di chuyển sang vị trí khác.  
 - Tip 06 - Actor Piloting: chọn camera mong muốn, right click, chọn Pilot [tên camera]; tắt bằng cách click hình tam giác góc trên bên trái.  
-- Tip 07 - Transform Object: phím W để di chuyển, phím E để xoay, phím R để tăng/giảm kích thước của đối tượng.  
-- Tip 08 - 
+- Tip 07 - Transform Object: phím W để di chuyển, phím E để xoay, phím R để tăng/giảm kích thước của đối tượng; phím Space để chuyển đổi giữa các phím.  
+- Tip 08 - Uniform Scaling: tăng/giảm kích thước đối tượng theo tỉ lệ cố định các chiều: Details panel -> Scale -> Click Block button -> nhập giá trị vào ô.  
+- Tip 09 - Snap to ground: bấm phím End trên bàn phím.  
+- Tip 10 - Change Pivot Temporarily: click lên bề mặt object sau đó click chuột giữa, chỉ đổi pivot tạm thời, không lưu.  
+- Tip 11 - Game view and Fullscreen: click phím G và phím 11  
+- Tip 12 - Focus object: click chuột lên object -> bấm phím F.  
+- Tip 13 - Quick Zoom and FOV: chuột phải + phím C: zoom in; chuột phải + phím Z: zoon out.  
+- Tip 14 - Viewport Bookmarks: Ctrl + [1 tới 9] để lưu lại vị trí viewport. Truy cập lại viewport bằng các phím đã chọn.  
+- Tip 15 - 
